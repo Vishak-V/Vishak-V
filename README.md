@@ -3,7 +3,7 @@
 Hi, I'm Vishak, a CS and Math student with a knack for coding and data. I love solving problems, exploring data, and building cool stuff. Check out my projects and let's learn from each other.
 
 ## Education
-- Studying Computer Science and Mathematics at The University of Alabama, aiming for May 2025.
+- Studying Computer Science and Mathematics at The University of Alabama
 
 ## What I Do
 - Analyze and visualize data to uncover insights.
