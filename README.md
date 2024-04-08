@@ -11,7 +11,7 @@ Hi, I'm Vishak, a CS and Math student with a knack for coding and data. I love s
 - Enjoy tutoring in math and CS topics.
 
 ## Tech Skills
-- **Languages:** Python, C/C++
+- **Languages:** Python, C/C++, Go
 - **Tools:** SQL, Tableau, Google Analytics
 - **Frameworks/Libraries:** NumPy, TensorFlow
 
