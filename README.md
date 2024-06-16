@@ -60,6 +60,7 @@ A basic CRUD application that integrates MySQL and Go to build an API.
 
 ## Get in Touch
 
-<a href="https://www.linkedin.com/in/vishak-vikranth/"><img align="center" src="https://raw.githubusercontent.com/Vishak-V/Vishak-V/main/images/linkedin.svg" alt="Vishak Vikranth | LinkedIn" width="21px"/></a>
+**Linkedin**
+<a href="https://www.linkedin.com/in/vishak-vikranth/"><img align="left" src="https://raw.githubusercontent.com/Vishak-V/Vishak-V/main/images/linkedin.svg" alt="Vishak Vikranth | LinkedIn" width="21px"/></a>
 **Email**: vvikranth@crimson.ua.edu
 
