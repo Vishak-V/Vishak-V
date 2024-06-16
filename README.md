@@ -1,4 +1,4 @@
-# Vishak Vikranth
+<h1 align="center">Vishak Vikranth</h1>
 
 👋 Hi there! I'm Vishak, a passionate and driven Computer Science and Mathematics student at The University of Alabama, Tuscaloosa. I am currently interning at Shipt as a Backend Engineering Intern. Welcome to my GitHub profile!
 
