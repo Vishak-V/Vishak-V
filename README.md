@@ -59,9 +59,9 @@ A basic CRUD application that integrates MySQL and Go to build an API.
 
 ## Github Stats
 
-[![Vishak’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/Vishak-V)
+[![Vishak’s github stats](https://github-readme-stats.vercel.app/api?username=Vishak-V)](https://github.com/Vishak-V)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/Vishak-V)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishak-V&layout=compact)](https://github.com/Vishak-V)
 
 ## Get in Touch
 
