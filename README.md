@@ -57,11 +57,6 @@ Simulated NCAA golf tournaments using Python to provide optimal strategies for c
 ### [Go with MySQL](https://github.com/Vishak-V/Golang-with-MySQL)
 A basic CRUD application that integrates MySQL and Go to build an API.
 
-## Github Stats
-
-[![Vishak’s github stats](https://github-readme-stats.vercel.app/api?username=Vishak-V)](https://github.com/Vishak-V)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishak-V&layout=compact)](https://github.com/Vishak-V)
 
 ## Get in Touch
 
