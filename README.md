@@ -1,26 +1,52 @@
-# Vishak Vikranth 👨‍💻
+# Vishak Vikranth
 
-Hi, I'm Vishak, a CS and Math student with a knack for coding and data. I love solving problems, exploring data, and building cool stuff. Check out my projects and let's learn from each other.
+👋 Hi there! I'm Vishak, a passionate and driven Computer Science and Mathematics student at The University of Alabama, Tuscaloosa. I am currently interning at Shipt as a Backend Engineering Intern. Welcome to my GitHub profile!
 
-## Education
-- Studying Computer Science and Mathematics at The University of Alabama
+## About Me
 
-## What I Do
-- Analyze and visualize data to uncover insights.
-- Dive into machine learning and AI projects.
-- Enjoy tutoring in math and CS topics.
+- 🌱 **Education**: 
+  - **Bachelor of Science in Computer Science**, The University of Alabama, Tuscaloosa (Graduating May 2025)
+  - **Bachelor of Science in Mathematics**, The University of Alabama, Tuscaloosa (Graduating May 2025)
+  - Minor in Actuarial Science
+  - Honors College, Emerging Scholars Program
+  - GPA: 4.0 (President’s List)
 
-## Tech Skills
-- **Languages:** Python, C/C++, Go
-- **Tools:** SQL, Tableau, Google Analytics
-- **Frameworks/Libraries:** NumPy, TensorFlow
+- 💼 **Work Experience**:
+  - **Backend Engineering Intern at Shipt** (June 2024 - Present)
+  - **Data Analyst Intern at Mal Moore Athletic Facility** (September 2023 - Present)
+  - **Peer Math Tutor at MTLC** (February 2022 – December 2023)
+  - **Teaching Assistant at Raising a Mathematician Foundation** (August 2020 - February 2021)
 
-## Achievements
-- Top finishes in hackathons and coding competitions.
-- Contributed to research in data visualization and combinatorics.
+- 🔬 **Research Experience**:
+  - Database Management (January 2024 - Present)
+  - NLP and Text Generation (August 2023 - Present)
+  - Combinatorics Research (August 2022 - Present)
 
-## Reach Out
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/vishak-vikranth-0b10b9220)
-- **Email:** `vvikranth@crimson.ua.edu`
+- 🛠️ **Key Skills**:
+  - **Programming Languages**: Python (NumPy, Scikit-Learn, Pandas, PyTorch, TensorFlow), C/C++, Go (REST APIs)
+  - **Data Tools**: SQL (PostgreSQL), R (Shiny), Google Analytics, Tableau
+  - **Technologies**: Hugging Face, Microsoft Autogen, LIDA
 
-Feel free to explore my repositories and let's get in touch!
+- 🏆 **Awards**:
+  - 2nd place at AuburnHacks for designing a Mars rover game using LLMs for unique NPC interactions.
+  - 2nd place at the International Collegiate Programming Competition Southeast Regional Division 2 (2023, 2022).
+
+## Projects
+
+Here are a few projects I've worked on:
+
+### [Social-Media-Backend-FastAPI](https://github.com/Vishak-V/Social-Media-Backend-FastAPI)
+A backend for a social media application built using FastAPI, PostgreSQL, and Docker.
+
+### [Golf Tournament Simulation](https://github.com/Vishak-V/Golf-Tournament-Simulator)
+Simulated NCAA golf tournaments using Python to provide optimal strategies for coaches.
+
+### [Go with MySQL](https://github.com/Vishak-V/Golang-with-MySQL)
+A basic CRUD application that integrates MySQL and Go to build an API.
+
+## Get in Touch
+
+- **Email**: vvikranth@crimson.ua.edu
+- **LinkedIn**: [Vishak Vikranth](https://www.linkedin.com/in/vishak-vikranth)
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
