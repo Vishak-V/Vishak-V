@@ -69,5 +69,6 @@ A basic CRUD application that integrates MySQL and Go to build an API.
 - **LinkedIn**: [Vishak Vikranth](https://www.linkedin.com/in/vishak-vikranth)
 
 <a href=”https://www.linkedin.com/in/vishak-vikranth/"><img align=”left” src=”https://raw.githubusercontent.com/Vishak-V/Vishak-V/main/images/linkedin.svg" alt=”Vishak Vikranth | LinkedIn” width=”21px”/></a>
-
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
