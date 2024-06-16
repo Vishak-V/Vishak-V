@@ -68,4 +68,5 @@ A basic CRUD application that integrates MySQL and Go to build an API.
 - **Email**: vvikranth@crimson.ua.edu
 - **LinkedIn**: [Vishak Vikranth](https://www.linkedin.com/in/vishak-vikranth)
 
+<a href=”https://www.linkedin.com/in/vishak-vikranth/"><img align=”left” src=”https://raw.githubusercontent.com/Vishak-V/Vishak-V/main/images/linkedin.svg" alt=”Vishak Vikranth | LinkedIn” width=”21px”/></a>
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
