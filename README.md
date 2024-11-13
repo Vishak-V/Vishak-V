@@ -41,6 +41,7 @@
   - **Technologies**: Hugging Face, Microsoft Autogen, LIDA
 
 - 🏆 **Awards**:
+  - “Best hack in Health Management” track and “Best Tech-Enabled Patient Safety Solution” at HackPrinceton
   - 2nd place at AuburnHacks for designing a Mars rover game using LLMs for unique NPC interactions.
   - 2nd place at the International Collegiate Programming Competition Southeast Regional Division 2 (2023, 2022).
 
