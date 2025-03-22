@@ -25,7 +25,7 @@
   - GPA: 4.0 (President’s List)
 
 - 💼 **Work Experience**:
-  - **Backend Engineering Intern at Shipt** (June 2024 - Present)
+  - **Backend Engineering Intern at Shipt** (June 2024 - August 2024)
   - **Data Analyst Intern at Mal Moore Athletic Facility** (September 2023 - Present)
   - **Peer Math Tutor at MTLC** (February 2022 – December 2023)
   - **Teaching Assistant at Raising a Mathematician Foundation** (August 2020 - February 2021)
