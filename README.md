@@ -18,13 +18,14 @@
 ## About Me
 
 - 🌱 **Education**: 
-  - **Bachelor of Science in Computer Science**, The University of Alabama, Tuscaloosa (Graduating May 2025)
-  - **Bachelor of Science in Mathematics**, The University of Alabama, Tuscaloosa (Graduating May 2025)
+  - **Bachelor of Science in Computer Science**, The University of Alabama, Tuscaloosa (Graduating December 2025)
+  - **Bachelor of Science in Mathematics**, The University of Alabama, Tuscaloosa (Graduating December 2025)
   - Minor in Actuarial Science
   - Honors College, Emerging Scholars Program
   - GPA: 4.0 (President’s List)
 
 - 💼 **Work Experience**:
+  - **Software Development Engineer Intern at Amazon Web Services** (June 2024 - August 2024)
   - **Backend Engineering Intern at Shipt** (June 2024 - August 2024)
   - **Data Analyst Intern at Mal Moore Athletic Facility** (September 2023 - Present)
   - **Peer Math Tutor at MTLC** (February 2022 – December 2023)
@@ -36,9 +37,8 @@
   - Combinatorics Research (August 2022 - Present)
 
 - 🛠️ **Key Skills**:
-  - **Programming Languages**: Python (NumPy, Scikit-Learn, Pandas, PyTorch, TensorFlow), C/C++, Go (REST APIs)
+  - **Programming Languages**: Python (NumPy, Scikit-Learn, Pandas, PyTorch, TensorFlow), Java, C/C++, Go (REST APIs)
   - **Data Tools**: SQL (PostgreSQL), R (Shiny), Google Analytics, Tableau
-  - **Technologies**: Hugging Face, Microsoft Autogen, LIDA
 
 - 🏆 **Awards**:
   - “Best hack in Health Management” track and “Best Tech-Enabled Patient Safety Solution” at HackPrinceton
