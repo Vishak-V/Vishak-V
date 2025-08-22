@@ -1,6 +1,6 @@
 <h1 align="center">Vishak Vikranth</h1>
 
-👋 Hi there! I'm Vishak, a passionate and driven Computer Science and Mathematics student at The University of Alabama, Tuscaloosa. I am currently an SDE intern at AWS. Welcome to my GitHub profile!
+👋 Hi there! I'm Vishak, a passionate and driven Computer Science and Mathematics student at The University of Alabama, Tuscaloosa. I was an SDE intern at AWS this summer. Welcome to my GitHub profile!
 
 ## Technologies
 
@@ -25,7 +25,7 @@
   - GPA: 4.0 (President’s List)
 
 - 💼 **Work Experience**:
-  - **Software Development Engineer Intern at Amazon Web Services** (June 2024 - August 2024)
+  - **Software Development Engineer Intern at Amazon Web Services** (May 2025 - August 2025)
   - **Backend Engineering Intern at Shipt** (June 2024 - August 2024)
   - **Data Analyst Intern at Mal Moore Athletic Facility** (September 2023 - Present)
   - **Peer Math Tutor at MTLC** (February 2022 – December 2023)
